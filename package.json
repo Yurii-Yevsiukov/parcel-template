@@ -2,7 +2,7 @@
   "name": "parcel-template",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/Yurii-Yevsiukov/parcel-template",
+  "homepage": "https://yurii-yevsiukov.github.io/parcel-template/",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel src/*.html",
